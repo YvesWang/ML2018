@@ -1,0 +1,118 @@
+/share/apps/h5py/2.7.0rc2/intel/lib/python2.7/site-packages/h5py-2.7.0rc2-py2.7-linux-x86_64.egg/h5py/__init__.py:34: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+2018-04-14 17:44:49.124573: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+2018-04-14 17:44:49.462181: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1105] Found device 0 with properties: 
+name: Tesla P40 major: 6 minor: 1 memoryClockRate(GHz): 1.531
+pciBusID: 0000:85:00.0
+totalMemory: 22.38GiB freeMemory: 22.21GiB
+2018-04-14 17:44:49.462226: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1195] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: Tesla P40, pci bus id: 0000:85:00.0, compute capability: 6.1)
+WARNING:tensorflow:From /share/apps/keras/2.0.2/lib/python2.7/site-packages/Keras-2.0.2-py2.7.egg/keras/backend/tensorflow_backend.py:1123: calling reduce_mean (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+WARNING:tensorflow:From /share/apps/keras/2.0.2/lib/python2.7/site-packages/Keras-2.0.2-py2.7.egg/keras/backend/tensorflow_backend.py:2548: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+Epoch 1/50
+35s - loss: 0.5645 - acc: 0.8760 - val_loss: 0.1832 - val_acc: 0.9472
+Epoch 2/50
+32s - loss: 0.0967 - acc: 0.9686 - val_loss: 0.1827 - val_acc: 0.9557
+Epoch 3/50
+32s - loss: 0.0515 - acc: 0.9841 - val_loss: 0.2634 - val_acc: 0.9435
+Epoch 4/50
+31s - loss: 0.0520 - acc: 0.9851 - val_loss: 0.3555 - val_acc: 0.9368
+Epoch 5/50
+31s - loss: 0.0537 - acc: 0.9846 - val_loss: 0.2929 - val_acc: 0.9469
+Epoch 6/50
+31s - loss: 0.0336 - acc: 0.9899 - val_loss: 0.3042 - val_acc: 0.9421
+Epoch 7/50
+31s - loss: 0.0173 - acc: 0.9951 - val_loss: 0.2221 - val_acc: 0.9554
+Epoch 8/50
+31s - loss: 0.0293 - acc: 0.9919 - val_loss: 0.3036 - val_acc: 0.9495
+Epoch 9/50
+31s - loss: 0.0482 - acc: 0.9867 - val_loss: 0.3182 - val_acc: 0.9490
+Epoch 10/50
+31s - loss: 0.0246 - acc: 0.9926 - val_loss: 0.2229 - val_acc: 0.9613
+Epoch 11/50
+31s - loss: 0.0265 - acc: 0.9937 - val_loss: 0.3183 - val_acc: 0.9524
+Epoch 12/50
+31s - loss: 0.0223 - acc: 0.9944 - val_loss: 0.2991 - val_acc: 0.9511
+Epoch 13/50
+31s - loss: 0.0208 - acc: 0.9943 - val_loss: 0.3497 - val_acc: 0.9508
+Epoch 14/50
+31s - loss: 0.0222 - acc: 0.9944 - val_loss: 0.2641 - val_acc: 0.9557
+Epoch 15/50
+31s - loss: 0.0214 - acc: 0.9951 - val_loss: 0.3361 - val_acc: 0.9515
+Epoch 16/50
+31s - loss: 0.0164 - acc: 0.9957 - val_loss: 0.2676 - val_acc: 0.9599
+Epoch 17/50
+31s - loss: 0.0149 - acc: 0.9969 - val_loss: 0.2617 - val_acc: 0.9585
+Epoch 18/50
+31s - loss: 0.0112 - acc: 0.9974 - val_loss: 0.2871 - val_acc: 0.9566
+Epoch 19/50
+31s - loss: 0.0225 - acc: 0.9952 - val_loss: 0.2937 - val_acc: 0.9585
+Epoch 20/50
+31s - loss: 0.0193 - acc: 0.9954 - val_loss: 0.2417 - val_acc: 0.9598
+Epoch 21/50
+31s - loss: 0.0080 - acc: 0.9981 - val_loss: 0.2605 - val_acc: 0.9599
+Epoch 22/50
+31s - loss: 0.0249 - acc: 0.9941 - val_loss: 0.2899 - val_acc: 0.9570
+Epoch 23/50
+31s - loss: 0.0183 - acc: 0.9960 - val_loss: 0.2705 - val_acc: 0.9592
+Epoch 24/50
+31s - loss: 0.0195 - acc: 0.9954 - val_loss: 0.4873 - val_acc: 0.9421
+Epoch 25/50
+31s - loss: 0.0303 - acc: 0.9937 - val_loss: 0.2973 - val_acc: 0.9569
+Epoch 26/50
+31s - loss: 0.0127 - acc: 0.9984 - val_loss: 0.2862 - val_acc: 0.9591
+Epoch 27/50
+31s - loss: 0.0048 - acc: 0.9992 - val_loss: 0.2242 - val_acc: 0.9640
+Epoch 28/50
+31s - loss: 0.0016 - acc: 0.9998 - val_loss: 0.2521 - val_acc: 0.9621
+Epoch 29/50
+31s - loss: 0.0013 - acc: 0.9999 - val_loss: 0.2211 - val_acc: 0.9663
+Epoch 30/50
+31s - loss: 0.0013 - acc: 0.9999 - val_loss: 0.2592 - val_acc: 0.9619
+Epoch 31/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2372 - val_acc: 0.9659
+Epoch 32/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2475 - val_acc: 0.9624
+Epoch 33/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2396 - val_acc: 0.9655
+Epoch 34/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2429 - val_acc: 0.9633
+Epoch 35/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2326 - val_acc: 0.9660
+Epoch 36/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2482 - val_acc: 0.9633
+Epoch 37/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2447 - val_acc: 0.9653
+Epoch 38/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2386 - val_acc: 0.9645
+Epoch 39/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2731 - val_acc: 0.9628
+Epoch 40/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2344 - val_acc: 0.9650
+Epoch 41/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2724 - val_acc: 0.9632
+Epoch 42/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2341 - val_acc: 0.9659
+Epoch 43/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2718 - val_acc: 0.9628
+Epoch 44/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2349 - val_acc: 0.9659
+Epoch 45/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2734 - val_acc: 0.9642
+Epoch 46/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2438 - val_acc: 0.9652
+Epoch 47/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2675 - val_acc: 0.9639
+Epoch 48/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2572 - val_acc: 0.9653
+Epoch 49/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2583 - val_acc: 0.9636
+Epoch 50/50
+31s - loss: 0.0012 - acc: 0.9999 - val_loss: 0.2464 - val_acc: 0.9667
+
+GAP: 0.930747094793
+

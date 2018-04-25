@@ -1,0 +1,66 @@
+read x_train success
+read x_test success
+start
+Epoch: [1 | 60] LR: 0.010000; Train Loss 2.129557; Test Loss 2.141883; Train acc 21.039406; Test acc 30.495117
+Epoch: [2 | 60] LR: 0.010000; Train Loss 1.819870; Test Loss 1.564569; Train acc 36.173615; Test acc 47.156073
+Epoch: [3 | 60] LR: 0.010000; Train Loss 1.640924; Test Loss 1.594992; Train acc 43.849229; Test acc 47.113243
+Epoch: [4 | 60] LR: 0.010000; Train Loss 1.515887; Test Loss 1.435902; Train acc 49.360366; Test acc 55.593627
+Epoch: [5 | 60] LR: 0.010000; Train Loss 1.430400; Test Loss 1.456642; Train acc 53.266705; Test acc 52.646908
+Epoch: [6 | 60] LR: 0.010000; Train Loss 1.459966; Test Loss 1.409089; Train acc 52.432895; Test acc 55.662155
+Epoch: [7 | 60] LR: 0.005000; Train Loss 0.961794; Test Loss 1.037999; Train acc 69.988578; Test acc 68.391297
+Epoch: [8 | 60] LR: 0.005000; Train Loss 0.774479; Test Loss 1.045648; Train acc 75.882353; Test acc 69.247901
+Epoch: [9 | 60] LR: 0.005000; Train Loss 0.661217; Test Loss 1.088377; Train acc 79.902913; Test acc 71.689224
+Epoch: [10 | 60] LR: 0.005000; Train Loss 0.627194; Test Loss 0.958174; Train acc 80.633923; Test acc 73.051225
+Epoch: [11 | 60] LR: 0.005000; Train Loss 0.536118; Test Loss 0.955327; Train acc 83.786408; Test acc 73.839301
+Epoch: [12 | 60] LR: 0.005000; Train Loss 0.539275; Test Loss 1.088153; Train acc 84.071959; Test acc 71.338016
+Epoch: [13 | 60] LR: 0.002500; Train Loss 0.317093; Test Loss 0.975875; Train acc 90.456882; Test acc 76.580435
+Epoch: [14 | 60] LR: 0.002500; Train Loss 0.190321; Test Loss 1.052624; Train acc 94.134780; Test acc 77.171492
+Epoch: [15 | 60] LR: 0.002500; Train Loss 0.136688; Test Loss 1.220189; Train acc 95.842376; Test acc 76.931643
+Epoch: [16 | 60] LR: 0.002500; Train Loss 0.119321; Test Loss 1.369030; Train acc 96.447744; Test acc 74.832962
+Epoch: [17 | 60] LR: 0.002500; Train Loss 0.100627; Test Loss 1.280186; Train acc 96.990291; Test acc 76.991605
+Epoch: [18 | 60] LR: 0.002500; Train Loss 0.106992; Test Loss 1.360679; Train acc 96.876071; Test acc 77.351379
+Epoch: [19 | 60] LR: 0.001250; Train Loss 0.049254; Test Loss 1.147648; Train acc 98.635066; Test acc 79.330135
+Epoch: [20 | 60] LR: 0.001250; Train Loss 0.010644; Test Loss 1.349157; Train acc 99.720160; Test acc 79.578551
+Epoch: [21 | 60] LR: 0.001250; Train Loss 0.003511; Test Loss 1.385343; Train acc 99.925757; Test acc 79.698475
+Epoch: [22 | 60] LR: 0.001250; Train Loss 0.001688; Test Loss 1.418422; Train acc 99.971445; Test acc 80.092513
+Epoch: [23 | 60] LR: 0.001250; Train Loss 0.001092; Test Loss 1.455204; Train acc 99.982867; Test acc 80.101079
+Epoch: [24 | 60] LR: 0.001250; Train Loss 0.000829; Test Loss 1.470643; Train acc 99.982867; Test acc 80.135344
+Epoch: [25 | 60] LR: 0.001250; Train Loss 0.000717; Test Loss 1.479468; Train acc 99.982867; Test acc 80.178174
+Epoch: [26 | 60] LR: 0.001250; Train Loss 0.000618; Test Loss 1.485043; Train acc 99.988578; Test acc 80.195306
+Epoch: [27 | 60] LR: 0.001250; Train Loss 0.000562; Test Loss 1.485720; Train acc 99.988578; Test acc 80.229570
+Epoch: [28 | 60] LR: 0.001250; Train Loss 0.000521; Test Loss 1.482966; Train acc 99.988578; Test acc 80.203872
+Epoch: [29 | 60] LR: 0.001250; Train Loss 0.000493; Test Loss 1.479617; Train acc 99.988578; Test acc 80.238136
+Epoch: [30 | 60] LR: 0.001250; Train Loss 0.000472; Test Loss 1.475109; Train acc 99.988578; Test acc 80.246702
+Epoch: [31 | 60] LR: 0.001250; Train Loss 0.000456; Test Loss 1.471030; Train acc 99.988578; Test acc 80.272400
+Epoch: [32 | 60] LR: 0.001250; Train Loss 0.000443; Test Loss 1.465009; Train acc 99.988578; Test acc 80.315230
+Epoch: [33 | 60] LR: 0.001250; Train Loss 0.000436; Test Loss 1.457385; Train acc 99.988578; Test acc 80.298098
+Epoch: [34 | 60] LR: 0.001250; Train Loss 0.000429; Test Loss 1.454036; Train acc 99.988578; Test acc 80.323796
+Epoch: [35 | 60] LR: 0.001250; Train Loss 0.000424; Test Loss 1.446723; Train acc 99.988578; Test acc 80.375193
+Epoch: [36 | 60] LR: 0.001250; Train Loss 0.000419; Test Loss 1.444407; Train acc 99.988578; Test acc 80.358061
+Epoch: [37 | 60] LR: 0.001250; Train Loss 0.000417; Test Loss 1.437132; Train acc 99.988578; Test acc 80.400891
+Epoch: [38 | 60] LR: 0.001250; Train Loss 0.000413; Test Loss 1.435347; Train acc 99.988578; Test acc 80.306664
+Epoch: [39 | 60] LR: 0.001250; Train Loss 0.000409; Test Loss 1.430430; Train acc 99.988578; Test acc 80.323796
+Epoch: [40 | 60] LR: 0.001250; Train Loss 0.000407; Test Loss 1.428074; Train acc 99.988578; Test acc 80.366627
+Epoch: [41 | 60] LR: 0.001250; Train Loss 0.000408; Test Loss 1.425114; Train acc 99.988578; Test acc 80.409457
+Epoch: [42 | 60] LR: 0.000625; Train Loss 0.000387; Test Loss 1.425633; Train acc 99.994289; Test acc 80.340929
+Epoch: [43 | 60] LR: 0.000625; Train Loss 0.000385; Test Loss 1.424452; Train acc 99.988578; Test acc 80.366627
+Epoch: [44 | 60] LR: 0.000625; Train Loss 0.000384; Test Loss 1.422983; Train acc 99.988578; Test acc 80.366627
+Epoch: [45 | 60] LR: 0.000625; Train Loss 0.000384; Test Loss 1.421639; Train acc 99.988578; Test acc 80.366627
+Epoch: [46 | 60] LR: 0.000625; Train Loss 0.000384; Test Loss 1.420525; Train acc 99.988578; Test acc 80.383759
+Epoch: [47 | 60] LR: 0.000625; Train Loss 0.000384; Test Loss 1.418912; Train acc 99.988578; Test acc 80.383759
+Epoch: [48 | 60] LR: 0.000313; Train Loss 0.000375; Test Loss 1.419568; Train acc 99.994289; Test acc 80.383759
+Epoch: [49 | 60] LR: 0.000313; Train Loss 0.000374; Test Loss 1.419251; Train acc 99.988578; Test acc 80.409457
+Epoch: [50 | 60] LR: 0.000313; Train Loss 0.000374; Test Loss 1.419009; Train acc 99.988578; Test acc 80.409457
+Epoch: [51 | 60] LR: 0.000313; Train Loss 0.000374; Test Loss 1.418575; Train acc 99.988578; Test acc 80.383759
+Epoch: [52 | 60] LR: 0.000156; Train Loss 0.000370; Test Loss 1.418660; Train acc 99.994289; Test acc 80.375193
+Epoch: [53 | 60] LR: 0.000156; Train Loss 0.000370; Test Loss 1.418570; Train acc 99.994289; Test acc 80.358061
+Epoch: [54 | 60] LR: 0.000156; Train Loss 0.000370; Test Loss 1.418318; Train acc 99.994289; Test acc 80.366627
+Epoch: [55 | 60] LR: 0.000078; Train Loss 0.000368; Test Loss 1.418318; Train acc 99.994289; Test acc 80.366627
+Epoch: [56 | 60] LR: 0.000078; Train Loss 0.000368; Test Loss 1.418255; Train acc 99.994289; Test acc 80.366627
+Epoch: [57 | 60] LR: 0.000078; Train Loss 0.000368; Test Loss 1.418148; Train acc 99.994289; Test acc 80.349495
+Epoch: [58 | 60] LR: 0.000039; Train Loss 0.000367; Test Loss 1.418149; Train acc 99.994289; Test acc 80.358061
+Epoch: [59 | 60] LR: 0.000039; Train Loss 0.000367; Test Loss 1.418106; Train acc 99.994289; Test acc 80.349495
+Epoch: [60 | 60] LR: 0.000039; Train Loss 0.000367; Test Loss 1.418069; Train acc 99.994289; Test acc 80.340929
+Best acc:
+80.4094569154
+

@@ -1,3 +1,3 @@
-# ML2018
+# Landmark Detection using Google Cloud data
 
-DS-GA 1003 Project
+NYU DS-GA 1003 Machine Learning and Computational Statistics Final Project
